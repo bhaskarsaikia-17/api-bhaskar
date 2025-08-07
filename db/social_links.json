@@ -1,0 +1,34 @@
+{
+  "discord": {
+    "url": "",
+    "enabled": false
+  },
+  "github": {
+    "url": "https://github.com/bhaskarkumar1",
+    "enabled": true
+  },
+  "instagram": {
+    "url": "",
+    "enabled": false
+  },
+  "twitter": {
+    "url": "",
+    "enabled": false
+  },
+  "litecoin": {
+    "url": "",
+    "enabled": false
+  },
+  "steam": {
+    "url": "",
+    "enabled": false
+  },
+  "riotgames": {
+    "url": "",
+    "enabled": false
+  },
+  "telegram": {
+    "url": "",
+    "enabled": false
+  }
+} 

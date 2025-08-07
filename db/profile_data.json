@@ -1,0 +1,10 @@
+{
+  "name": "Bhaskar",
+  "description": "Welcome to my personal website!",
+  "profilePic": "https://i.postimg.cc/NFncZ9Jz/default-profile-image.jpg",
+  "background": {
+    "enabled": false,
+    "url": "",
+    "customBackground": false
+  }
+} 
