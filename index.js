@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001;
 // Enable CORS
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://my.bhaskar.lol', 'https://www.my.bhaskar.lol'] 
+    ? ['https://i.bhaskar.lol', 'https://www.i.bhaskar.lol'] 
     : 'http://localhost:3000',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
   credentials: true
